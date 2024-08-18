@@ -1,4 +1,6 @@
 pandas
 streamlit
-sklearn
+sklearn.model_selection
+sklearn.ensemble
+sklearn.metrics
 
