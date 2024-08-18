@@ -1,7 +1,4 @@
 pandas
 streamlit
 scikit-learn
-scikit-learn.model_selection
-scikit-learn.ensemble
-scikit-learn.metrics
 
